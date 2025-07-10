@@ -47,9 +47,12 @@
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Web.Extensions" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="For_While.cs" />
+    <Compile Include="ParallelExample.cs" />
+    <Compile Include="ForWhile.cs" />
+    <Compile Include="FixJson.cs" />
     <Compile Include="DataTableSandbox.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
